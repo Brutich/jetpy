@@ -1,7 +1,6 @@
 """
 Utility modul
 """
-
 import clr
 clr.AddReference("RevitServices")
 import RevitServices
