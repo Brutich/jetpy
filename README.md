@@ -1,2 +1,2 @@
-# jetpy
+# Jetpy
 Iron Python utility library
